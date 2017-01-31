@@ -24,16 +24,16 @@ MFRID                            = MFRID_ENERGENIE
 ##PRODUCTID_MIHO001               =        #         Home Hub
 ##PRODUCTID_MIHO002               =        #         OOK Control only
 ##PRODUCTID_MIHO003               = 0x0?   #         Hand Controller
-PRODUCTID_MIHO004                = 0x01   #         Monitor only
-PRODUCTID_MIHO005                = 0x02   #         Adaptor Plus
-PRODUCTID_MIHO006                = 0x05   #         House Monitor
+##PRODUCTID_MIHO004                = 0x01   #         Monitor only
+##PRODUCTID_MIHO005                = 0x02   #         Adaptor Plus
+##PRODUCTID_MIHO006                = 0x05   #         House Monitor
 ##PRODUCTID_MIHO007               = 0x0?   #         Double Wall Socket White
-##PRODUCTID_MIHO008               = 0x0?   #         OOK: Single light switch white
+PRODUCTID_MIHO008               = 0x0?   #         OOK: Single light switch white
 ##PRODUCTID_MIHO009 not used
 ##PRODUCTID_MIHO010 not used
 ##PRODUCTID_MIHO011 not used
 ##PRODUCTID_MIHO012 not used
-PRODUCTID_MIHO013                = 0x03   #         eTRV
+##PRODUCTID_MIHO013                = 0x03   #         eTRV
 ##PRODUCTID_MIHO014                       # OOK In-line Relay
 ##PRODUCTID_MIHO015 not used
 ##PRODUCTID_MIHO016 not used
@@ -41,10 +41,10 @@ PRODUCTID_MIHO013                = 0x03   #         eTRV
 ##PRODUCTID_MIHO018
 ##PRODUCTID_MIHO019
 ##PRODUCTID_MIHO020
-##PRODUCTID_MIHO021               = 0x0?   #         Double Wall Socket Nickel
+PRODUCTID_MIHO021               = 0x0?   #         Double Wall Socket Nickel
 ##PRODUCTID_MIHO022               = 0x0?   #         Double Wall Socket Chrome
 ##PRODUCTID_MIHO023               = 0x0?   #         Double Wall Socket Brushed Steel
-##PRODUCTID_MIHO024               = 0x0?   #         OOK:Style Light Nickel
+PRODUCTID_MIHO024               = 0x0?   #         OOK:Style Light Nickel
 ##PRODUCTID_MIHO025               = 0x0?   #         OOK:Style Light Chrome
 ##PRODUCTID_MIHO026               = 0x0?   #         OOK:Style Light Steel
 ##PRODUCTID_MIHO027 starter pack bundle
@@ -52,8 +52,8 @@ PRODUCTID_MIHO013                = 0x03   #         eTRV
 ##PRODUCTID_MIHO029 heating bundle
 ##PRODUCTID_MIHO030 not used
 ##PRODUCTID_MIHO031 not used
-PRODUCTID_MIHO032                 = 0x0C  # FSK motion sensor
-PRODUCTID_MIHO033                 = 0x0D    # FSK open sensor
+##PRODUCTID_MIHO032                 = 0x0C  # FSK motion sensor
+##PRODUCTID_MIHO033                 = 0x0D    # FSK open sensor
 ##PRODUCTID_MIHO034 not used
 ##PRODUCTID_MIHO035 not used
 ##PRODUCTID_MIHO036 not used
